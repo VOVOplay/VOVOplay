@@ -1,7 +1,7 @@
 # 👋 Hey, I'm VOVO
 
 Yes, the username is the same as the repo — GitHub demands it, not me.
-\nCurrently teaching myself **Python** and `discord.py` so my bots stop breaking every time I look away.  
+Currently teaching myself **Python** and `discord.py` so my bots stop breaking every time I look away.  
 
 ## 🧠 What I’m Working On
 - Bots that might be useful... or not  
