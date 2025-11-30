@@ -10,7 +10,7 @@ Currently teaching myself **Python** and `discord.py` so my bots stop breaking e
 
 ## 🎮 Tech I Use
 - **Python**, **Linux servers** (because VPS pricing is comedy)
-- **Visual Studio Code** formerly Cursor 🤖  
+- **Visual Studio Code**, formerly Cursor 🤖  
 - **Fusion 360** & **Blender** for 3D chaos  
 - **DaVinci Resolve** for “why is this render taking 4 hours”  
 - **Bambu Lab A1 Mini** for turning filament into… shapes
