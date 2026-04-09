@@ -5,13 +5,15 @@ For now, I'm mostly focused on learning as much as I can, building projects, mak
 
 ## Development tools:
 - **Visual Studio Code**
+- The `discord.py` library
 - **Linux** & servers
 
 ## Current focus:
-- Learning **Python** and **Java**
-- Building private **Discord bots** for friends and servers that I help with
-- Building a well-rounded discord moderation bot that fits my needs and expectations
-- Getting more comfortable with Linux and server things
+- Learning **Python**
+- Building and maintaining the discord bot for Creator Coaster
+- Generally learning as much as I can of `discord.py`
+- Self hosting everything I possibly can
+- Ricing linux, cuz damn it's fun
 
 ## Long-term goals:
 - Learn Java
