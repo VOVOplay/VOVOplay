@@ -16,9 +16,15 @@ For now, I'm mostly focused on learning as much as I can, building projects, mak
 - Ricing linux, cuz damn it's fun
 
 ## Long-term goals:
+- Learn web dev
 - Learn Java
-- Learn some web dev
-- Make or contribute to projects that will help people (or at least me)
+- Contribute to open-source, once I feel like I'd be more of a help than a nuisance
+
+## Future languages I plan to learn
+1) JavaScript/TypeScript
+2) Java
+3) Kotlin
+4) Something low-level
 
 ## Creative tools I like:
 - **Blender** & **Fusion 360**
