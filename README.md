@@ -9,7 +9,7 @@ For now, I'm mostly focused on learning as much as I can, building projects, mak
 - **Linux** & servers
 
 ## Current focus:
-- Learning **Python**
+- Learning **Python** & **Go**
 - Building and maintaining the discord bot for Creator Coaster
 - Generally learning as much as I can of `discord.py`
 - Self hosting everything I possibly can
@@ -17,14 +17,14 @@ For now, I'm mostly focused on learning as much as I can, building projects, mak
 
 ## Long-term goals:
 - Learn web dev
-- Learn Java
+- Learn Go
 - Contribute to open-source, once I feel like I'd be more of a help than a nuisance
 
 ## Future languages I plan to learn
-1) JavaScript/TypeScript
-2) Java
-3) Kotlin
-4) Something low-level
+1) Go
+2) JavaScript/TypeScript
+3) Java & Kotlin
+4) Something low-level (maybe)
 
 ## Creative tools I like:
 - **Blender** & **Fusion 360**
