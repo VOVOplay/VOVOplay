@@ -6,25 +6,24 @@ For now, I'm mostly focused on learning as much as I can, building projects, mak
 ## Development tools:
 - **Visual Studio Code**
 - The `discord.py` library
+- [Templ](https://templ.guide/)
 - **Linux** & servers
 
 ## Current focus:
 - Learning **Python** & **Go**
+- Making a website with Go & Templ
 - Building and maintaining the discord bot for Creator Coaster
-- Generally learning as much as I can of `discord.py`
 - Self hosting everything I possibly can
 - Ricing linux, cuz damn it's fun
 
 ## Long-term goals:
 - Learn web dev
-- Learn Go
 - Contribute to open-source, once I feel like I'd be more of a help than a nuisance
 
-## Future languages I plan to learn
-1) Go
-2) JavaScript/TypeScript
-3) Java & Kotlin
-4) Something low-level (maybe)
+## Future languages I want to learn:
+1) Java/Kotlin
+2) C#
+3) Something low-level (maybe zig or rust)
 
 ## Creative tools I like:
 - **Blender** & **Fusion 360**
